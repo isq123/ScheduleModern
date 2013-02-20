@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScheduleModern</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <color name="black">#000000</color>
+
+    <string name="Monday">Понедельник</string>
+    <string name="Tuesday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+    <string name="title_activity_monday_activity">Monday_activity</string>
+
+    <color name="White">#FFFFFF</color>
+
+    <string name="title_activity_tuesday">TuesdayActivity</string>
+    <string name="title_activity_wednesday">WednesdayActivity</string>
+    <string name="title_activity_thursday">ThursdayActivity</string>
+    <string name="title_activity_friday">FridayActivity</string>
+    <string name="MadeBy">MadeBy ALevadsky&amp;GnidenkoA</string>
+    <string name="title_activity_monday">MondayActivity</string>
+
+</resources>
